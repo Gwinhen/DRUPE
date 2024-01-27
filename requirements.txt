@@ -1,0 +1,7 @@
+numpy==1.22.4
+torch==1.11.0
+tqdm==4.64.0
+-e git+https://github.com/subhadarship/kmeans_pytorch@f7f36bd1cb4e3a761d73d584866d0a9c6b4d2805#egg=kmeans_pytorch
+sklearn==0.0
+matplotlib==3.5.2
+POT==0.8.2
